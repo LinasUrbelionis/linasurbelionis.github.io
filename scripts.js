@@ -15,7 +15,7 @@ function generateImages(folderUrl, idTag) {
     }); 
 }
 
-function initGalery(idTag) {
+function initGallery(idTag) {
     lightGallery(document.getElementById(idTag), {
         plugins: [lgZoom, lgThumbnail],
         speed: 500,
