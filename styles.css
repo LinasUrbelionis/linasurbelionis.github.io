@@ -11,6 +11,7 @@ a {
 
 section {
 	width: 80%;
+	max-width: 1500px;
 	margin: 100px auto;
 	text-align: center;
 }
